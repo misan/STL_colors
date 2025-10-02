@@ -1,0 +1,3 @@
+Simple single-page app that will parse an STL file the user provides the browser and it will list the available colors (if any). 
+
+STL color is an obscure non-standard feature that is best avoided, but you know me ...
